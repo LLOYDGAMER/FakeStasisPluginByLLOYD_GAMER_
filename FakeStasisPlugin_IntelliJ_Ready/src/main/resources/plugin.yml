@@ -1,0 +1,7 @@
+
+name: FakeStasisPlugin
+version: 1.0
+main: com.lg.smp.stasis.FakeStasisPlugin
+api-version: '1.21'
+author: LG SMP
+description: Fake Fishing Rod Stasis Chamber for Paper 1.21.11
